@@ -1,4 +1,4 @@
-# GameOfLife
+# Game of Life GUI
 GUI implementation of Conway's Game of Life using JavaFX.
 To run the GUI, run the GridPaneEx.
 ## About the Game Board
