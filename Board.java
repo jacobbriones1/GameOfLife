@@ -31,7 +31,7 @@ public class Board extends Cell{
       }
       for(int y=0; y<25; y++)
          for(int x=0; x<25; x++)
-            this.gridPane.add(cellMatrix[y][x].rectangle, x, y,1,1);
+            this.gridPane.add(cellMatrix[y][x].rectangle, x, y,1,1); 
       this.cellMatrix	= cellMatrix;
    }
 
